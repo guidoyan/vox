@@ -1,0 +1,9 @@
+body{
+    background:url("images/247.jpg") ;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-size:cover;
+}
+input::placeholder{
+    color: white!important;
+}
